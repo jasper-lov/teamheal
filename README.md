@@ -1,10 +1,4 @@
-# teamheal
-Teamheal blog
-
-<br>
-
-
-<h1 align="center">teamheal November Report</h1>
+<h1 align="center">Teamheal November Report</h1>
 <h3 align="center">Hosted on AWS</h3>
 
 
